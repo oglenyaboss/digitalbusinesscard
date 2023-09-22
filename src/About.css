@@ -1,0 +1,25 @@
+.about{
+    width: 317px;
+}
+
+.about h2{
+    margin: 0;
+    color: #F5F5F5;
+    font-family: Inter, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    padding: 33px 36px 5px 36px;
+}
+
+.about p{
+    color: #DCDCDC;
+    font-family: Inter, sans-serif;
+    font-size: 10.24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 15.36px */
+    margin:0;
+    padding: 0 36px 0 36px;
+}

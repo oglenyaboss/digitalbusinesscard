@@ -1,0 +1,88 @@
+.info{
+    background: #1A1B21;
+}
+.ProfilePic{
+    margin-bottom: 21px;
+    width: 317px;
+    height: 317px;
+    border-radius: 10px 10px 0 0;
+}
+.Name{
+    color: #FFF;
+    text-align: center;
+    font-family: 'Inter', sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    margin-bottom: 9px;
+    margin-top: 0;
+}
+
+.Job{
+    color: #F3BF99;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 9px;
+    margin-top: 0;
+}
+
+.Website{
+    color: #F5F5F5;
+    text-align: center;
+    font-family: Inter, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
+}
+
+.social-icons{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Mail-link{
+    margin-left: 35px;
+    display: flex;
+    width: 115px;
+    padding: 9px 0px 9px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 6px;
+    border: 1px solid #5093E2;
+    background: white;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    color: #374151;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; /* 114.286% */
+    text-decoration: none;
+}
+
+.Linked-link{
+    margin-right: 35px;
+    display: flex;
+    width: 115px;
+    padding: 9px 0px 9px 0px;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 6px;
+    background: #5093E2;
+    box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
+    color: #FFF;
+    font-family: Inter, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 16px; /* 114.286% */
+    text-decoration: none;
+}
