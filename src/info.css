@@ -1,6 +1,4 @@
-.info{
-    background: #1A1B21;
-}
+
 .ProfilePic{
     margin-bottom: 21px;
     width: 317px;
@@ -85,4 +83,19 @@
     font-weight: 500;
     line-height: 16px; /* 114.286% */
     text-decoration: none;
+}
+
+@media (prefers-color-scheme: light) {
+    .Name{
+        color: #2B283A;
+    }
+    .Job{
+        color: #F47D27;
+    }
+    .Website{
+        color: #4A4E74;
+    }
+    .Linked-link{
+        background: #297FE5;
+    }
 }

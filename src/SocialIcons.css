@@ -13,5 +13,10 @@
   width: 35px;
   height: 35px;
   margin: 20px;
+}
 
+@media (prefers-color-scheme: light) {
+    .social-footer-icons{
+      background: #D5D4D8;
+    }
 }

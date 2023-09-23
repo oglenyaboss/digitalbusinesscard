@@ -23,3 +23,12 @@
     margin:0;
     padding: 0 36px 0 36px;
 }
+
+@media (prefers-color-scheme: light) {
+    .about h2{
+        color: #2B283A;
+    }
+    .about p{
+        color: #4A4E74;
+    }
+}

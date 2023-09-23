@@ -18,3 +18,9 @@
   background: #1A1B21;
     border-radius: 10px;
 }
+
+@media (prefers-color-scheme: light) {
+  .card-container{
+    background: #F5F5F5;
+  }
+}
